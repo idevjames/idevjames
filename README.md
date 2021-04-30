@@ -1,7 +1,7 @@
-:clap: Hi there! I'm James :D :raised_hands: 
+###### :clap: Hi there! I'm James :D :clap: 
 - iOS App Developer
 - Embedded Developer
 - H/W Engineer 
 
-Skills :muscle:
+###### :muscle: Skills 
 
