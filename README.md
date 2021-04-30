@@ -1,6 +1,6 @@
 #### :clap: Hi there! I'm James :D :clap: 
-As a Hardware Engineer, I'm in charge of device design, circuit design, PCB artwork, and firmware development.
-As a Mobile App Developer, I mainly develop iOS mobile apps (Swift, Objective C) and iOS frameworks
+##### As a Hardware Engineer, I'm in charge of device design, circuit design, PCB artwork, and firmware development.
+##### As a Mobile App Developer, I mainly develop iOS mobile apps (Swift, Objective C) and iOS frameworks
 
 * ###### iOS App Developer
 * ###### Embedded Developer
